@@ -17,4 +17,4 @@ http://jwxt.gdufe.edu.cn/jsxsd/xskb/xskb_print.do?xnxq01id={???}&zc=
 ```
 http://jwxt.gdufe.edu.cn/jsxsd/xskb/xskb_print.do?xnxq01id=2023-2024-1&zc=
 ```
-如何在浏览器登录教务系统并新开标签页,复制该链接到地址栏进行下载
+在浏览器登录教务系统的前提下，复制该链接到地址栏进行下载
